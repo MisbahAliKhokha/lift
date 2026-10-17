@@ -1,7 +1,7 @@
 __pycache__/
 *.pyc
 *.pyo
-loop_state/
-factory_state/
+.DS_Store
 .venv/
 venv/
+node_modules/
