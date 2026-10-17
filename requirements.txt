@@ -1,2 +1,2 @@
-# Lift has ZERO dependencies — pure Python stdlib only.
-# This file is intentionally empty.
+# Lift is 100% stdlib — zero dependencies.
+# (intentionally empty)
